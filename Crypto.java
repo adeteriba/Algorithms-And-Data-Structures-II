@@ -7,7 +7,7 @@ means.
 
 import java.util.*;
 
-public class Crypotography {
+public class Crypo {
   public static void main (String args[]){
 	Scanner myscanner = new Scanner(System.in);
 	long p = myscanner.nextLong();
