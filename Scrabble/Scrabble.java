@@ -6,7 +6,7 @@ The goal of the program is to make some words using the letters the user types i
 package CS211;
 import java.util.*;
 
-public class Boggle {
+public class Scrabble {
     static List<String> solutions = new ArrayList<String>();
 
     static String[] dictionary;
